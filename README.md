@@ -104,6 +104,7 @@ var connectionString = "Server=tcp:stability-sql.database.windows.net;Database=S
 4. Run python database/load_data.py to load sample data
 5. Run query database/data_verification.sql to verify if data has been loaded
 6. Test queries with database/analytical_queries.sql
+7. Run the python scripts/report_generator.py to create a report
 
 ## File Structure
 
