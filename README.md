@@ -105,8 +105,9 @@ var connectionString = "Server=tcp:stability-sql.database.windows.net;Database=S
 5. Run query database/data_verification.sql to verify if data has been loaded
 6. Test queries with database/analytical_queries.sql
 
-File Structure
-text
+## File Structure
+
+
 ├── database/          # Database schema and queries
 
 ├── migration/         # Migration plan and scripts  
