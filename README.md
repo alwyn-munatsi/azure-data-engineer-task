@@ -108,9 +108,13 @@ var connectionString = "Server=tcp:stability-sql.database.windows.net;Database=S
 File Structure
 text
 ├── database/          # Database schema and queries
+
 ├── migration/         # Migration plan and scripts  
+
 ├── scripts/           # Utility scripts and PDF generator
+
 ├── data/             # Sample data files
+
 └── README.md         # This file
 
 Contact
